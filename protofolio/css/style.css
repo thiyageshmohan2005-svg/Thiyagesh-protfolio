@@ -1,0 +1,16 @@
+*{
+    font-family: "poppins", sans-serif;
+}
+.firstview{
+    background-image: url(/protofolio/css/photos/thiyages.img/page1.jpg) ;
+    padding: 200px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.padding-skills{
+    padding: 85px 0;
+}
+.navbg{
+    background-color: #c9addb;
+}
